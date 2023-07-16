@@ -1,2 +1,3 @@
-# Request-Header-Parser-Microservice-Dean
-This repo is about my solution for second Back End Development and APIs Projects from FreeCodeCamp (Request Header Parser Microservice)
+# Request Header Parser Microservice
+
+This is the boilerplate for the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
